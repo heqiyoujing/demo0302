@@ -1,2 +1,2 @@
 # demo0302
-平时学习的一些相关
+Some Relevance of Usual Learning
