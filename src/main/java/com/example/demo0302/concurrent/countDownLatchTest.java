@@ -34,9 +34,9 @@ public class countDownLatchTest {
      * @throws InterruptedException
      */
     public static void main(String[] args) throws InterruptedException {
-//        downLatch();
+        downLatch();
 //        testWaitThread();
-        testConcurrent();
+//        testConcurrent();
     }
     private static long startTime = 0L;
     /**
